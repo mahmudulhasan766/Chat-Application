@@ -87,7 +87,7 @@ class _AuthPageState extends State<AuthPage> {
                       ),
                       child: Icon(
                         Icons.message,
-                        size: 45,
+                        size: 40,
                         color: Colors.white,
                       ),
                     ),
@@ -99,7 +99,7 @@ class _AuthPageState extends State<AuthPage> {
                     'Join the Room',
                     style: TextStyle(
                       color: AppColors.kPrimaryColor.withValues(alpha: .6),
-                      fontSize: 42,
+                      fontSize: 36,
                       fontWeight: FontWeight.w700,
                       height: 1.02,
                     ),

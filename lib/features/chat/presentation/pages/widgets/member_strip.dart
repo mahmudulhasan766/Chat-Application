@@ -18,7 +18,7 @@ class MemberStrip extends StatelessWidget {
     ];
 
     return SizedBox(
-      height: 86,
+      height: 89,
       child: ListView.separated(
         scrollDirection: Axis.horizontal,
         physics: const BouncingScrollPhysics(),
